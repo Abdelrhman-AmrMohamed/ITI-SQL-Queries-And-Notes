@@ -13,6 +13,7 @@ SQL Queries and notes from ITI Online Database Sessions (T-SQL)
 
 ## 🛠️ Tools Used
 - SQL Server Management Studio (SSMS)
+- Download : https://youtu.be/4o3sy5E0wA4?si=0GdvFJ13lturUSps
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-amr-87525737b)
