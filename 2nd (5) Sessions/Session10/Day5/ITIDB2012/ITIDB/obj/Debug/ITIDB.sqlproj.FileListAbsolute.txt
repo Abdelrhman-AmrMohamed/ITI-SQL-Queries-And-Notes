@@ -1,0 +1,24 @@
+c:\ITIDB\ITIDB\bin\Debug\ITIDB.dacpac
+c:\ITIDB\ITIDB\bin\Debug\ITIDB.dll
+c:\ITIDB\ITIDB\bin\Debug\ITIDB.pdb
+c:\ITIDB\ITIDB\obj\Debug\ITIDB.dll
+c:\ITIDB\ITIDB\obj\Debug\ITIDB.pdb
+c:\ITIDB\ITIDB\obj\Debug\Model.xml
+c:\ITIDB\ITIDB\obj\Debug\refactor.xml
+c:\ITIDB\ITIDB\obj\Debug\postdeploy.sql
+c:\ITIDB\ITIDB\obj\Debug\predeploy.sql
+E:\ITI\Intake33\Focus\SQL Server 2012\Day6\For Students\Demo\ITIDB\ITIDB\bin\Debug\ITIDB.dacpac
+E:\ITI\Intake33\Focus\SQL Server 2012\Day6\For Students\Demo\ITIDB\ITIDB\bin\Debug\ITIDB.dll
+E:\ITI\Intake33\Focus\SQL Server 2012\Day6\For Students\Demo\ITIDB\ITIDB\bin\Debug\ITIDB.pdb
+E:\ITI\Intake33\Focus\SQL Server 2012\Day6\For Students\Demo\ITIDB\ITIDB\obj\Debug\ITIDB.dll
+E:\ITI\Intake33\Focus\SQL Server 2012\Day6\For Students\Demo\ITIDB\ITIDB\obj\Debug\ITIDB.pdb
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\bin\Debug\ITIDB.dacpac
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\bin\Debug\ITIDB.dll
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\bin\Debug\ITIDB.pdb
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\ITIDB.sqlproj.AssemblyReference.cache
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\Model.xml
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\refactor.xml
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\postdeploy.sql
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\predeploy.sql
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\ITIDB.dll
+F:\ITI\database iti\Day10\Day5\ITIDB2012\ITIDB\obj\Debug\ITIDB.pdb

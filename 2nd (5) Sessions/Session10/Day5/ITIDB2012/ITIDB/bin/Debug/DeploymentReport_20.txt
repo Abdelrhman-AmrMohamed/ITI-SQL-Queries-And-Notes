@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [ITIDB] (Assembly)
+     Create
+       [ITIDB] (Assembly)
+       [dbo].[SumValues] (Function)
+
+** Supporting actions
+     Drop
+       [dbo].[AggFun] (Aggregate)
+       [dbo].[HelloSQLCLR] (Function)
+       [dbo].[SPGetStudData] (Procedure)
+       [dbo].[MyCircle] (User-Defined Type)
+     Create
+       [dbo].[MyCircle] (User-Defined Type)
+       [dbo].[AggFun] (Aggregate)
+       [dbo].[HelloSQLCLR] (Function)
+       [dbo].[SPGetStudData] (Procedure)
